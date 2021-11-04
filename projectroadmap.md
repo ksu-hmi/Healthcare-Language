@@ -4,3 +4,5 @@ In this project, the user has made excel files breaking down medical abbreviatio
 Another example is found at : https://github.com/Moozzaart23/Medical-Expert-System
 In this project, the user has made text files of different medical conditions and their explainations, a file for the disease symptoms, and a file for the disease treatment.
 
+https://github.com/Ayman-Barghout/urban-dictionary-app
+This code has nothing to do with medical terminology, but the code setup can easily be adapted to fit the need for medical needs
