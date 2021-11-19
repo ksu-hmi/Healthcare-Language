@@ -1,20 +1,31 @@
-import 'package:flutter/material.dart';
+import 'package:flutter/material.dart'
+    show
+        AppBar,
+        BuildContext,
+        Center,
+        Key,
+        MaterialApp,
+        Scaffold,
+        StatelessWidget,
+        Text,
+        Widget;
 
-void main() => runApp(MyApp());
 
-class MyApp extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Welcome to Healthcare Language',
-      home: Scaffold(
-        appBar: AppBar(
-          title: const Text('Welcome to Healthcare Language'),
-        ),
-        body: const Center(
-          child: Text('Please type a disease or medical term to look up'),
-        ),
+abstract class MyPublicWidget extends StatelessWidget {
+  const MyPublicWidget({Key? key}) : super(key: key);
+}
+
+@override
+Widget build(BuildContext context) {
+  return MaterialApp(
+    title: 'Welcome to Healthcare Language',
+    home: Scaffold(
+      appBar: AppBar(
+        title: const Text('Welcome to Healthcare Language'),
       ),
-    );
-  }
+      body: const Center(
+        child: Text('Please type a disease or medical term to look up'),
+      ),
+    ),
+  );
 }
