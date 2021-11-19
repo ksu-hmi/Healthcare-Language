@@ -1,19 +1,10 @@
 import 'package:flutter/material.dart'
-    show
-        AppBar,
-        BuildContext,
-        Center,
-        Key,
-        MaterialApp,
-        Scaffold,
-        StatelessWidget,
-        Text,
-        Widget;
+
+void main() => runApp(const MyPublicWidget());
 
 
-abstract class MyPublicWidget extends StatelessWidget {
+class MyPublicWidget extends StatelessWidget {
   const MyPublicWidget({Key? key}) : super(key: key);
-}
 
 @override
 Widget build(BuildContext context) {
