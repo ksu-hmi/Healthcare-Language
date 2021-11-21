@@ -1,0 +1,5 @@
+git clone https://github.com/johnuberbacher/flutter_medical.git
+
+flutter pub get
+
+flutter run
