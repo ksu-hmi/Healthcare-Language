@@ -16,3 +16,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 Need to follow up on creating Dart code
+
+https://flutter.github.io/samples/#
+View flutter samples on what possible applications can look like
+
