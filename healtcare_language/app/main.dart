@@ -2,9 +2,14 @@ import 'package:flutter/material.dart';
 
 void main() => runApp(const MyPublicWidget());
 
-class MyPublicWidget extends StatelessWidget {
+class MyPublicWidget extends StatefulWidget {
   const MyPublicWidget({Key? key}) : super(key: key);
 
+  @override
+  State<MyPublicWidget> createState() => _MyPublicWidgetState();
+}
+
+class _MyPublicWidgetState extends State<MyPublicWidget> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
