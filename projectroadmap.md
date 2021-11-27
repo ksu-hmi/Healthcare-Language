@@ -12,3 +12,6 @@ Code for beginning of making an app with flutter.  The title of our project and 
 
 https://github.com/johnuberbacher/flutter_medical 
 This is an example of a flutter medical dictionary in GitHub
+
+https://github.com/ResoCoder/flutter-search-bar-tutorial/blob/master/lib/main.dart
+Adding a search bar to the app
