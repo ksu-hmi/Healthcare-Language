@@ -23,3 +23,5 @@ View flutter samples on what possible applications can look like
 https://api.flutter.dev/flutter/material/AppBar-class.html
 Tutorial on AppBar, hopefully will help make a search bar for terminology
 
+GitHub Repository for a Flutter search bar: https://github.com/ResoCoder/flutter-search-bar-tutorial
+
