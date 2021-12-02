@@ -15,3 +15,6 @@ This is an example of a flutter medical dictionary in GitHub
 
 https://github.com/ResoCoder/flutter-search-bar-tutorial/blob/master/lib/main.dart
 Adding a search bar to the app
+
+https://docs.flutter.dev/development/ui/layout
+Building a layout using fluter in VS code
