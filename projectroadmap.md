@@ -18,3 +18,6 @@ Adding a search bar to the app
 
 https://docs.flutter.dev/development/ui/layout
 Building a layout using fluter in VS code
+
+https://fonts.google.com/icons?selected=Material+Icons
+Icons to add to app
